@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering<br>👯 I’m looking to collaborate on Data Engineering<br>🤝 I’m looking for help with Data Engineering<br>🌱 I’m currently learning Data Engineering<br>💬 Ask me about Data Engineering<br>⚡ Fun fact I can play guitar 
+🔭 I’m currently working as a Lead Data Engineer<br>👯 I’m looking to collaborate on Data Engineering<br>🤝 I’m looking for help with Data Engineering<br>🌱 I’m currently learning Data Engineering<br>💬 Ask me about Data Engineering<br>⚡ Fun fact I can play guitar 
 
 
 # 💻 Tech Stack:
@@ -15,10 +15,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Data-Visualization-Analytics&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Data-Visualization-Analytics&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
